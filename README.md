@@ -1,12 +1,15 @@
 <h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello!+👋;Namaste!+🙏;Bonjour!+🇫🇷;Hola!+🇪🇸;Ciao!+🇮🇹;こんにちは!+🇯🇵;안녕하세요!+🇰🇷;नमस्ते!+🇮🇳;مرحبا!+🇸🇦;Olá!+🇧🇷;Hallo!+🇩🇪;Привет!+🇷🇺;নমস্কার!+🇧🇩;I'm+Emon+Karmoker!;Machine+Learning+Engineer;Python+%7C+Deep+Learning+%7C+AI;" />
 
-<div align="center">
-  
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Python Developer](https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-0052CC?style=for-the-badge&logo=ai&logoColor=white)
+### Aspiring Machine Learning Engineer | Python | LLM | Deep Learning | Data Science | Artificial Intelligence | Power BI | SQL
 
+<div align="center">
+  ![Machine Learning](https://img.shields.io/badge/Machine-Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Python Developer](https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-0052CC?style=for-the-badge&logo=ai&logoColor=white)
+  ![Data Science](https://img.shields.io/badge/Data-Science-4CAF50?style=for-the-badge&logo=dataiku&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/Power-BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-Developer-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
 </div>
 
 
