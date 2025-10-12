@@ -14,8 +14,19 @@
 
 
 <div align="center">
-  <img width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer GIF">
+
+![GIF 1](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVjdWwyejFocGtucm1mNXU2MDV5dHc0bTl0OWVjaTF5enhiZnY0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif)
+
+![GIF 2](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhvZTFnazVqcGI1ZG4xZzE5NXdmNDA5OTN0NjN6dGJjYTJ3eHYxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif)
+
+![GIF 3](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhvZTFnazVqcGI1ZG4xZzE5NXdmNDA5OTN0NjN6dGJjYTJ3eHYxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
+
+![GIF 4](https://tenor.com/en-GB/view/machine-learning-baby-crying-deep-learning-sad-math-gif-17208484)
+
+![GIF 5](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXV1bWgwZXcwNXl5ZmNpeGg4YWpzd2JjZjVraWl4OGQydDVlMnZ5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif)
+
 </div>
+
 
 
 ## 🚀 Professional Summary
