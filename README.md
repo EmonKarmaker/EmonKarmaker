@@ -13,7 +13,54 @@
   <img width="300" src="https://camo.githubusercontent.com/594b6c827bbc06aab824c191597dff74850c38e59e6cf700174cf133b6692fc4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c4d634238586f7370475a4f3855517138372f67697068792e676966" alt="Cool Coding GIF">
 </div>
 
+<div align="center">
+  <img width="300" src="https://media.giphy.com/media/HscDL8OtlhI4w2aCcl/giphy.gif" alt="AI Brain GIF">
+</div>
 
+<div align="center">
+  <img width="300" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="Code Typing GIF">
+</div>
+
+<div align="center">
+  <img width="300" src="https://media.giphy.com/media/LqZNcdsF2qk10rQYAj/giphy.gif" alt="Data Visualization GIF">
+</div>
+<div align="center">
+  <img width="300" src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" alt="AI Assistant GIF">
+</div>
+<div align="center">
+  <img width="300" src="https://media.giphy.com/media/3oKIPEqDGUULtEU1a0/giphy.gif" alt="Neural Network GIF">
+</div>
+<div align="center">
+  <img width="300" src="https://media.giphy.com/media/26AHPxxnSw1LhlzUQ/giphy.gif" alt="Tech Innovation GIF">
+</div>
+<div align="center">
+  <img width="300" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python Coding GIF">
+</div>
+<div align="center">
+  <img width="300" src="https://media.giphy.com/media/3o72FfM5HJydzafgUE/giphy.gif" alt="Futuristic Tech GIF">
+</div>
+<div align="center">
+  <img width="300" src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" alt="Machine Learning GIF">
+</div>
+<div align="center">
+  <img width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer GIF">
+</div>
+
+<div align="center">
+  <img width="300" src="https://media.giphy.com/media/HscDL8OtlhI4w2aCcl/giphy.gif" alt="AI Brain GIF">
+  <br>
+  <em>Where ideas become intelligent systems</em>
+</div>
+<div align="center">
+  <img width="300" src="https://media.giphy.com/media/3oKIPEqDGUULtEU1a0/giphy.gif" alt="Neural Network GIF">
+  <br>
+  <em>Building connections, one layer at a time</em>
+</div>
+<div align="center">
+  <img width="300" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python Coding GIF">
+  <br>
+  <em>Python by day, Python by night 🐍</em>
+</div>
 
 ## 🚀 Professional Summary
 
