@@ -15,9 +15,9 @@
 
 <div align="center">
 
-![GIF 1](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVjdWwyejFocGtucm1mNXU2MDV5dHc0bTl0OWVjaTF5enhiZnY0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif)
 
-![GIF 2](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhvZTFnazVqcGI1ZG4xZzE5NXdmNDA5OTN0NjN6dGJjYTJ3eHYxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif)
+
+
 
 ![GIF 3](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhvZTFnazVqcGI1ZG4xZzE5NXdmNDA5OTN0NjN6dGJjYTJ3eHYxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
 
@@ -25,7 +25,7 @@
   <img width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF">
 </div>
 
-![GIF 5](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXV1bWgwZXcwNXl5ZmNpeGg4YWpzd2JjZjVraWl4OGQydDVlMnZ5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif)
+
 
 </div>
 
@@ -98,7 +98,7 @@ Computer Science graduate with expertise in Machine Learning and Deep Learning, 
 - Improved image clarity by 65%, accuracy by 28%
 
 ---
-
+![GIF 5](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXV1bWgwZXcwNXl5ZmNpeGg4YWpzd2JjZjVraWl4OGQydDVlMnZ5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif)
 ## 📊 Project Portfolio
 
 <div align="center">
@@ -162,7 +162,7 @@ Computer Science graduate with expertise in Machine Learning and Deep Learning, 
 
 
 ---
-
+![GIF 2](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhvZTFnazVqcGI1ZG4xZzE5NXdmNDA5OTN0NjN6dGJjYTJ3eHYxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif)
 ## 🔗 Let's Connect
 
 <div align="center">
