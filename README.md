@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Data_Science-4CAF50?style=for-the-badge&logo=dataiku&logoColor=white" alt="Data Science" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</di
+</div>
 
 
 <div align="center">
@@ -190,4 +190,5 @@ Computer Science graduate with expertise in Machine Learning and Deep Learning, 
 
 ![Visitors](https://komarev.com/ghpvc/?username=EmonKarmaker&color=blue&style=flat-square)
 
+</div>
 </div>
