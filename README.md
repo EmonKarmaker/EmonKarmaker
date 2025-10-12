@@ -69,7 +69,7 @@ Advanced clustering accuracy by 40% vs traditional methods
 
 <br>
 <a href="https://github.com/EmonKarmaker/Final-Year-Design-Project">
-  <img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge" />
+  <img width="200" src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge" />
 </a>
 
 <br><br>
@@ -212,6 +212,6 @@ Represented platform activities, built engagement strategies, and supported yout
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=EmonKarmaker&color=blue&style=flat-square" />
+<img width="200" src="https://komarev.com/ghpvc/?username=EmonKarmaker&color=blue&style=flat-square" />
 
 </div>
