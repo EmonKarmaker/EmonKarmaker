@@ -1,7 +1,7 @@
 <h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello!+👋;Namaste!+🙏;Bonjour!+🇫🇷;Hola!+🇪🇸;Ciao!+🇮🇹;こんにちは!+🇯🇵;안녕하세요!+🇰🇷;नमस्ते!+🇮🇳;مرحبا!+🇸🇦;Olá!+🇧🇷;Hallo!+🇩🇪;Привет!+🇷🇺;নমস্কার!+🇧🇩;I'm+Emon+Karmoker!;Machine+Learning+Engineer;Python+%7C+Deep+Learning+%7C+AI;" />
 
-### Aspiring Machine Learning Engineer | Python | LLM | Deep Learning | Data Science | Artificial Intelligence | Power BI | SQL
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
