@@ -9,14 +9,10 @@
 
 </div>
 
-
 <div align="center">
-  
-![Coding Ninja](https://img.shields.io/badge/Code-Ninja-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-![AI Wizard](https://img.shields.io/badge/AI-Wizard-3776AB?style=for-the-badge&logo=ai&logoColor=white)
-![Problem Solver](https://img.shields.io/badge/Problem-Solver-0052CC?style=for-the-badge&logo=brave&logoColor=white)
-
+  <img width="300" src="https://camo.githubusercontent.com/594b6c827bbc06aab824c191597dff74850c38e59e6cf700174cf133b6692fc4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c4d634238586f7370475a4f3855517138372f67697068792e676966" alt="Cool Coding GIF">
 </div>
+
 
 
 ## 🚀 Professional Summary
