@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhvZTFnazVqcGI1ZG4xZzE5NXdmNDA5OTN0NjN6dGJjYTJ3eHYxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
 </div>
 
 <div align="center">
@@ -51,11 +51,6 @@ Computer Science graduate with expertise in Machine Learning and Deep Learning, 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-
-### **Web Technologies**
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Beautiful_Soup-绿色?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
 ---
 
@@ -161,7 +156,7 @@ Improved image clarity by 65%, accuracy by 28%
 
 <br>
 
-### 💼 **Experience**
+### 💼 **Professional Experience**
 **Grader – Fundamental Calculus** | *United International University*<br>
 *Mar 2023 – Jun 2023*<br>
 Supported academic assessment and guided students in foundational mathematical concepts.
@@ -177,6 +172,32 @@ Managed collaborations, promoted technical events, and led communications initia
 **Campus Ambassador** | *Youth Opportunities*<br>
 *Jan 2023 – Dec 2023*<br>
 Represented platform activities, built engagement strategies, and supported youth empowerment programs.
+
+---
+
+## 📚 Courses & Certifications
+
+### **Data Engineer with Python & Machine Learning**
+**Center For Development of IT Professionals (CDIP), UIU** | *2024 – 2025*<br>
+Mastered essential skills in Python, data pipelines, and machine learning for expert data handling and analysis.
+
+<br>
+
+### **Introduction to Python and Big Data Analysis**
+**Center For Development of IT Professionals (CDIP), UIU** | *2023 – 2024*<br>
+Comprehensive training in Python programming and big data analysis techniques.
+
+<br>
+
+### **Graphics Design (CTG-106)**
+**CodersTrust** | *2020*<br>
+Professional graphics design training and certification.
+
+<br>
+
+### **Computer Basic and ICT Application Course**
+**Youth Development** | *Jan-June 2020*<br>
+Fundamental computer and ICT skills development program.
 
 <br>
 
@@ -212,6 +233,6 @@ Represented platform activities, built engagement strategies, and supported yout
 
 <br>
 
-<img width="200" src="https://komarev.com/ghpvc/?username=EmonKarmaker&color=blue&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=EmonKarmaker&color=blue&style=flat-square" />
 
 </div>
