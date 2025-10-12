@@ -21,9 +21,7 @@
 
 ![GIF 3](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhvZTFnazVqcGI1ZG4xZzE5NXdmNDA5OTN0NjN6dGJjYTJ3eHYxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
 
-<div align="center">
-  <img width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF">
-</div>
+
 
 
 
@@ -99,8 +97,9 @@ Computer Science graduate with expertise in Machine Learning and Deep Learning, 
 
 ---
 <div align="center">
-![GIF 5](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXV1bWgwZXcwNXl5ZmNpeGg4YWpzd2JjZjVraWl4OGQydDVlMnZ5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif)
+  <img src="https://media4.giphy.com/media/WoD6JZnwap6s8/giphy.gif" alt="Machine Learning GIF" width="300"/>
 </div>
+
 ## 📊 Project Portfolio
 
 <div align="center">
