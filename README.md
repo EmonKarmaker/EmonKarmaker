@@ -69,7 +69,7 @@ Advanced clustering accuracy by 40% vs traditional methods
 
 <br>
 <a href="https://github.com/EmonKarmaker/Final-Year-Design-Project">
-  <img width="200" src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge" />
 </a>
 
 <br><br>
@@ -94,7 +94,7 @@ Streamlined recruitment for 112+ students
 Improved image clarity by 65%, accuracy by 28%
 
 <br>
-<img src="https://media4.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="300" alt="Machine Learning GIF">
+
 
 ---
 
