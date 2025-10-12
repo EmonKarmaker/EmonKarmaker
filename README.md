@@ -10,8 +10,9 @@
 </div>
 
 <div align="center">
-  <img width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="AI Coding GIF">
+  <img width="300" src="https://api.dicebear.com/6.x/avataaars/svg?seed=EmonKarmoker&accessories=roundGlasses&top=shortHair&facialHairProbability=0&clothes=blazer&eyeStyle=smile&mouth=smile" alt="Boy-ish smart avatar">
 </div>
+
 
 ## 🚀 Professional Summary
 
