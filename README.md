@@ -3,14 +3,14 @@
 
 ### Aspiring Machine Learning Engineer | Python | LLM | Deep Learning | Data Science | Artificial Intelligence | Power BI | SQL
 
-<p align="center">
-  ![Machine Learning](https://img.shields.io/badge/Machine-Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![Python Developer](https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-0052CC?style=for-the-badge&logo=ai&logoColor=white)
-  ![Data Science](https://img.shields.io/badge/Data-Science-4CAF50?style=for-the-badge&logo=dataiku&logoColor=white)
-  ![Power BI](https://img.shields.io/badge/Power-BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-Developer-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/AI-0052CC?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/Data_Science-4CAF50?style=for-the-badge&logo=dataiku&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</di
 
 
 <div align="center">
@@ -21,7 +21,9 @@
 
 ![GIF 3](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhvZTFnazVqcGI1ZG4xZzE5NXdmNDA5OTN0NjN6dGJjYTJ3eHYxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
 
-![GIF 4](https://tenor.com/en-GB/view/machine-learning-baby-crying-deep-learning-sad-math-gif-17208484)
+<div align="center">
+  <img width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF">
+</div>
 
 ![GIF 5](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXV1bWgwZXcwNXl5ZmNpeGg4YWpzd2JjZjVraWl4OGQydDVlMnZ5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif)
 
