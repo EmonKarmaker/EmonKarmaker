@@ -54,21 +54,21 @@ I'm passionate about building intelligent systems and solving complex problems t
 - 🥈 **1st Runner Up - UIU Project Show Competition**
 - Deep Learning • Bioinformatics • Python
 
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](your-project-link)
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://github.com/EmonKarmaker/Final-Year-Design-Project)
 
 ### 👨‍🏫 **Teaching Assistant Recruitment System**
 *Database-backed decision-making system for TA selection*
 - 🥉 **2nd Runner Up - UIU Project Show Competition**
 - Web Application • Database Design
 
-[![View Project](https://img.shields.io/badge/View-Project-green?style=for-the-badge)](your-project-link)
+[![View Project](https://img.shields.io/badge/View-Project-green?style=for-the-badge)](https://github.com/EmonKarmaker/TA-DBMS-LAB)
 
 ### 🏥 **Medical Image Analysis - Colon Cancer Detection**
 *Hybrid DL models for endoscopic image analysis*
 - Research Paper Under Review
 - Computer Vision • Healthcare AI
 
-[![View Project](https://img.shields.io/badge/View-Project-red?style=for-the-badge)](your-project-link)
+[![View Project](https://img.shields.io/badge/View-Project-red?style=for-the-badge)](https://github.com/EmonKarmaker/Bioinformatics-RA)
 
 ---
 
@@ -89,7 +89,8 @@ I'm passionate about building intelligent systems and solving complex problems t
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emon-karmoker-9308431b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emonkarmaker101@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-link)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmonKarmaker)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://emonkarmaker.github.io/)
 
 ---
 
