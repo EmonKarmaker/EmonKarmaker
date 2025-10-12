@@ -98,7 +98,9 @@ Computer Science graduate with expertise in Machine Learning and Deep Learning, 
 - Improved image clarity by 65%, accuracy by 28%
 
 ---
+<div align="center">
 ![GIF 5](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXV1bWgwZXcwNXl5ZmNpeGg4YWpzd2JjZjVraWl4OGQydDVlMnZ5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif)
+</div>
 ## 📊 Project Portfolio
 
 <div align="center">
@@ -162,7 +164,11 @@ Computer Science graduate with expertise in Machine Learning and Deep Learning, 
 
 
 ---
+<div align="center">
+
 ![GIF 2](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhvZTFnazVqcGI1ZG4xZzE5NXdmNDA5OTN0NjN6dGJjYTJ3eHYxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif)
+
+</div>
 ## 🔗 Let's Connect
 
 <div align="center">
