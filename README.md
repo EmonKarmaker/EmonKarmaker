@@ -9,8 +9,13 @@
 
 </div>
 
+
 <div align="center">
-  <img width="300" src="https://api.dicebear.com/6.x/avataaars/svg?seed=EmonKarmoker&accessories=roundGlasses&top=shortHair&facialHairProbability=0&clothes=blazer&eyeStyle=smile&mouth=smile" alt="Boy-ish smart avatar">
+  
+![Coding Ninja](https://img.shields.io/badge/Code-Ninja-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![AI Wizard](https://img.shields.io/badge/AI-Wizard-3776AB?style=for-the-badge&logo=ai&logoColor=white)
+![Problem Solver](https://img.shields.io/badge/Problem-Solver-0052CC?style=for-the-badge&logo=brave&logoColor=white)
+
 </div>
 
 
