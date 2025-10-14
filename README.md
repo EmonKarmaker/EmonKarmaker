@@ -99,71 +99,37 @@ Improved image clarity by 65%, accuracy by 28%
 
 <div align="center">
 
-| Project | Description & Technologies |
-|:---:|:---|
-| [![Posture Detection](assets/WhatsApp%20Image%202025-10-14%20at%2021.21.29_b884980b.jpg)](https://github.com/EmonKarmaker/Posture_detection_using_PoseNet) | **Posture Detection using PoseNet** <br><br> Real-time posture detection and analysis system using PoseNet model for computer vision applications. <br><br> <a href="https://github.com/EmonKarmaker/Posture_detection_using_PoseNet"><img src="https://img.shields.io/badge/Posture_Detection-PoseNet-FF6B35?style=for-the-badge" /></a> |
-| [![Face Mask Detection](https://via.placeholder.com/400x250/37474f/ffffff?text=Face+Mask+Detector)](https://github.com/EmonKarmaker/face_mask_detector) | **Face Mask Detector** <br><br> Computer vision system to detect face masks in real-time using OpenCV and deep learning. <br><br> <a href="https://github.com/EmonKarmaker/face_mask_detector"><img src="https://img.shields.io/badge/Face_Mask_Detector-OpenCV-F9A825?style=for-the-badge" /></a> |
-
-</div>
-
-<br>
-
-### 📈 **Machine Learning**
-
-<div align="center">
-  
-[![Posture Detection](assets/WhatsApp%20Image%202025-10-14%20at%2021.21.29_b884980b.jpg)](https://github.com/EmonKarmaker/Posture_detection_using_PoseNet)
-<br>
-<a href="https://github.com/EmonKarmaker/Posture_detection_using_PoseNet">
-  <img src="https://img.shields.io/badge/Posture_Detection-PoseNet-FF6B35?style=for-the-badge" />
-</a>
-
-[![Face Mask Detection](https://via.placeholder.com/300x200/37474f/ffffff?text=Face+Mask+Detector)](https://github.com/EmonKarmaker/face_mask_detector)
-<br>
-<a href="https://github.com/EmonKarmaker/face_mask_detector">
-  <img src="https://img.shields.io/badge/Face_Mask_Detector-OpenCV-F9A825?style=for-the-badge" />
-</a>
+| | |
+|:---:|:---:|
+| [![Posture Detection](assets/WhatsApp%20Image%202025-10-14%20at%2021.21.29_b884980b.jpg)](https://github.com/EmonKarmaker/Posture_detection_using_PoseNet) | [![Face Mask Detection](https://via.placeholder.com/150x100/37474f/ffffff?text=Mask+Detector)](https://github.com/EmonKarmaker/face_mask_detector) |
+| <a href="https://github.com/EmonKarmaker/Posture_detection_using_PoseNet"><img src="https://img.shields.io/badge/Posture_Detection-PoseNet-FF6B35?style=for-the-badge" /></a> | <a href="https://github.com/EmonKarmaker/face_mask_detector"><img src="https://img.shields.io/badge/Face_Mask_Detector-OpenCV-F9A825?style=for-the-badge" /></a> |
 
 </div>
 
 ### 📈 **Machine Learning**
 <div align="center">
-  
-[![Car Price Prediction](https://via.placeholder.com/300x200/1b5e20/ffffff?text=Car+Price+Prediction)](https://github.com/EmonKarmaker/car_price_prediction)
-<br>
-<a href="https://github.com/EmonKarmaker/car_price_prediction">
-  <img src="https://img.shields.io/badge/Car_Price_Prediction-ML-4CAF50?style=for-the-badge" />
-</a>
 
-[![Movie Recommendation](https://via.placeholder.com/300x200/0d47a1/ffffff?text=Movie+Recommendation)](https://github.com/EmonKarmaker/Movie_recommendation_system_project_ML)
-<br>
-<a href="https://github.com/EmonKarmaker/Movie_recommendation_system_project_ML">
-  <img src="https://img.shields.io/badge/Movie_Recommendation-ML-2196F3?style=for-the-badge" />
-</a>
+| | |
+|:---:|:---:|
+| [![Car Price Prediction](https://via.placeholder.com/150x100/1b5e20/ffffff?text=Car+Price)](https://github.com/EmonKarmaker/car_price_prediction) | [![Movie Recommendation](https://via.placeholder.com/150x100/0d47a1/ffffff?text=Movie+Rec)](https://github.com/EmonKarmaker/Movie_recommendation_system_project_ML) |
+| <a href="https://github.com/EmonKarmaker/car_price_prediction"><img src="https://img.shields.io/badge/Car_Price_Prediction-ML-4CAF50?style=for-the-badge" /></a> | <a href="https://github.com/EmonKarmaker/Movie_recommendation_system_project_ML"><img src="https://img.shields.io/badge/Movie_Recommendation-ML-2196F3?style=for-the-badge" /></a> |
 
 </div>
 
 ### 💬 **NLP & Analytics**
 <div align="center">
-  
-[![AI Chatbot](https://via.placeholder.com/300x200/4a148c/ffffff?text=AI+Chatbot)](https://github.com/EmonKarmaker/chatbot)
-<br>
-<a href="https://github.com/EmonKarmaker/chatbot">
-  <img src="https://img.shields.io/badge/AI_Chatbot-Python-9C27B0?style=for-the-badge" />
-</a>
 
-[![WhatsApp Analytics](https://via.placeholder.com/300x200/b71c1c/ffffff?text=WhatsApp+Analytics)](https://github.com/EmonKarmaker/whatsapp_chat_analysis)
-<br>
-<a href="https://github.com/EmonKarmaker/whatsapp_chat_analysis">
-  <img src="https://img.shields.io/badge/WhatsApp_Analytics-Data_Visualization-FF5252?style=for-the-badge" />
-</a>
+| | |
+|:---:|:---:|
+| [![AI Chatbot](https://via.placeholder.com/150x100/4a148c/ffffff?text=AI+Chatbot)](https://github.com/EmonKarmaker/chatbot) | [![WhatsApp Analytics](https://via.placeholder.com/150x100/b71c1c/ffffff?text=WhatsApp)](https://github.com/EmonKarmaker/whatsapp_chat_analysis) |
+| <a href="https://github.com/EmonKarmaker/chatbot"><img src="https://img.shields.io/badge/AI_Chatbot-Python-9C27B0?style=for-the-badge" /></a> | <a href="https://github.com/EmonKarmaker/whatsapp_chat_analysis"><img src="https://img.shields.io/badge/WhatsApp_Analytics-Data_Visualization-FF5252?style=for-the-badge" /></a> |
 
 </div>
 
 ### 🏪 **Web Development**
 <div align="center">
-  
-[![Pharmacy Management](https://via.placeholder.com/300x200/006064/ffffff?text=Pharmacy+Management)](https://github.com/EmonKarmaker/Pharmacy-Management-System-1)
+
+[![Pharmacy Management](https://via.placeholder.com/150x100/006064/ffffff?text=Pharmacy)](https://github.com/EmonKarmaker/Pharmacy-Management-System-1)
 <br>
 <a href="https://github.com/EmonKarmaker/Pharmacy-Management-System-1">
   <img src="https://img.shields.io/badge/Pharmacy_System-Laravel-00BCD4?style=for-the-badge" />
