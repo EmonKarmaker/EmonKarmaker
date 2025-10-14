@@ -121,7 +121,7 @@ Improved image clarity by 65%, accuracy by 28%
 
 | | |
 |:---:|:---:|
-| [<img src="assets/chatbot.jpg" width="150" height="100" style="border-radius: 8px; border: 2px solid #9C27B0;" alt="AI Chatbot">](https://github.com/EmonKarmaker/chatbot) | [<img src="https://via.placeholder.com/150x100/b71c1c/ffffff?text=WhatsApp" width="150" height="100" style="border-radius: 8px; border: 2px solid #FF5252;" alt="WhatsApp Analytics">](https://github.com/EmonKarmaker/whatsapp_chat_analysis) |
+| [<img src="assets/photo_2025-10-14_21-46-15.jpg" width="120" height="100" style="border-radius: 8px; border: 2px solid #9C27B0; object-fit: cover;" alt="AI Chatbot">](https://github.com/EmonKarmaker/chatbot) | [<img src="https://via.placeholder.com/150x100/b71c1c/ffffff?text=WhatsApp" width="150" height="100" style="border-radius: 8px; border: 2px solid #FF5252;" alt="WhatsApp Analytics">](https://github.com/EmonKarmaker/whatsapp_chat_analysis) |
 | **AI Chatbot**<br><a href="https://github.com/EmonKarmaker/chatbot"><img src="https://img.shields.io/badge/NLP-Chatbot-9C27B0?style=for-the-badge&logo=python" /></a> | **WhatsApp Analytics**<br><a href="https://github.com/EmonKarmaker/whatsapp_chat_analysis"><img src="https://img.shields.io/badge/Data-Visualization-FF5252?style=for-the-badge&logo=plotly" /></a> |
 
 </div>
