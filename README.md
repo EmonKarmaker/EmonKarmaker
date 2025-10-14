@@ -100,7 +100,7 @@ Improved image clarity by 65%, accuracy by 28%
 
 | | |
 |:---:|:---:|
-| [<img src="assets/WhatsApp%20Image%202025-10-14%20at%2021.21.29_b884980b.jpg" width="300" height="150" style="border-radius: 8px; border: 2px solid #FF6B35; object-fit: cover;" alt="Posture Detection Project">](https://github.com/EmonKarmaker/Posture_detection_using_PoseNet) | [<img src="https://via.placeholder.com/300x150/37474f/ffffff?text=Mask+Detector" width="300" height="150" style="border-radius: 8px; border: 2px solid #F9A825;" alt="Face Mask Detection Project">](https://github.com/EmonKarmaker/face_mask_detector) |
+| [<img src="assets/WhatsApp%20Image%202025-10-14%20at%2021.21.29_b884980b.jpg" width="150" height="250" style="border-radius: 8px; border: 2px solid #FF6B35; object-fit: cover;" alt="Posture Detection Project">](https://github.com/EmonKarmaker/Posture_detection_using_PoseNet) | [<img src="https://via.placeholder.com/300x150/37474f/ffffff?text=Mask+Detector" width="300" height="150" style="border-radius: 8px; border: 2px solid #F9A825;" alt="Face Mask Detection Project">](https://github.com/EmonKarmaker/face_mask_detector) |
 | **Posture Detection**<br><a href="https://github.com/EmonKarmaker/Posture_detection_using_PoseNet"><img src="https://img.shields.io/badge/PoseNet-Computer_Vision-FF6B35?style=for-the-badge&logo=tensorflow" /></a> | **Face Mask Detector**<br><a href="https://github.com/EmonKarmaker/face_mask_detector"><img src="https://img.shields.io/badge/OpenCV-Deep_Learning-F9A825?style=for-the-badge&logo=opencv" /></a> |
 
 </div>
@@ -110,7 +110,7 @@ Improved image clarity by 65%, accuracy by 28%
 
 | | |
 |:---:|:---:|
-| [<img src="assets/car.png" width="300" height="150" style="border-radius: 8px; border: 2px solid #4CAF50; object-fit: cover;" alt="Car Price Prediction">](https://github.com/EmonKarmaker/car_price_prediction) | [<img src="assets/Movie.png" width="300" height="150" style="border-radius: 8px; border: 2px solid #2196F3; object-fit: cover;" alt="Movie Recommendation">](https://github.com/EmonKarmaker/Movie_recommendation_system_project_ML) |
+| [<img src="assets/car.png" width="500" height="300" style="border-radius: 8px; border: 2px solid #4CAF50; object-fit: cover;" alt="Car Price Prediction">](https://github.com/EmonKarmaker/car_price_prediction) | [<img src="assets/Movie.png" width="350" height="250 style="border-radius: 8px; border: 2px solid #2196F3; object-fit: cover;" alt="Movie Recommendation">](https://github.com/EmonKarmaker/Movie_recommendation_system_project_ML) |
 | **Car Price Prediction**<br><a href="https://github.com/EmonKarmaker/car_price_prediction"><img src="https://img.shields.io/badge/ML-Regression-4CAF50?style=for-the-badge&logo=scikitlearn" /></a> | **Movie Recommendation**<br><a href="https://github.com/EmonKarmaker/Movie_recommendation_system_project_ML"><img src="https://img.shields.io/badge/ML-Recommendation-2196F3?style=for-the-badge&logo=pandas" /></a> |
 
 </div>
@@ -120,8 +120,8 @@ Improved image clarity by 65%, accuracy by 28%
 
 | | |
 |:---:|:---:|
-| [<img src="assets/chatbot.jpg" width="300" height="150" style="border-radius: 8px; border: 2px solid #9C27B0; object-fit: cover;" alt="AI Chatbot">](https://github.com/EmonKarmaker/chatbot) | [<img src="assets/whatsapp.png" width="300" height="150" style="border-radius: 8px; border: 2px solid #FF5252; object-fit: cover;" alt="WhatsApp Analytics">](https://github.com/EmonKarmaker/whatsapp_chat_analysis) |
-| **AI Chatbot**<br><a href="https://github.com/EmonKarmaker/chatbot"><img src="https://img.shields.io/badge/NLP-Chatbot-9C27B0?style=for-the-badge&logo=python" /></a> | **WhatsApp Analytics**<br><a href="https://github.com/EmonKarmaker/whatsapp_chat_analysis"><img src="https://img.shields.io/badge/Data-Visualization-FF5252?style=for-the-badge&logo=plotly" /></a> |
+| [<img src="assets/chatbot.jpg" width="400" height="200" style="border-radius: 8px; border: 2px solid #9C27B0; object-fit: cover;" alt="AI Chatbot">](https://github.com/EmonKarmaker/chatbot) | [<img src="assets/whatsapp.png" width="350" height="150" style="border-radius: 8px; border: 2px solid #FF5252; object-fit: cover;" alt="WhatsApp Analytics">](https://github.com/EmonKarmaker/whatsapp_chat_analysis) |
+| **Chatbot**<br><a href="https://github.com/EmonKarmaker/chatbot"><img src="https://img.shields.io/badge/NLP-Chatbot-9C27B0?style=for-the-badge&logo=python" /></a> | **WhatsApp Analytics**<br><a href="https://github.com/EmonKarmaker/whatsapp_chat_analysis"><img src="https://img.shields.io/badge/Data-Visualization-FF5252?style=for-the-badge&logo=plotly" /></a> |
 
 </div>
 
