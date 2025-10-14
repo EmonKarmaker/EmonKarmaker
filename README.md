@@ -123,7 +123,7 @@ Improved image clarity by 65%, accuracy by 28%
 
 |:---:|:---:|
 
-| [<img src="assets/photo_2025-10-14_21-46-15.jpg" width="500" height="250" style="border-radius: 8px; border: 2px solid #9C27B0; object-fit: cover;" alt="AI Chatbot">](https://github.com/EmonKarmaker/chatbot) | [📹 Watch Demo](assets/video1555536535.mp4) |
+| [<img src="assets/photo_2025-10-14_21-46-15.jpg" width="300" height="150" style="border-radius: 8px; border: 2px solid #9C27B0; object-fit: cover;" alt="AI Chatbot">](https://github.com/EmonKarmaker/chatbot) | [📹 Watch Demo](assets/video1555536535.mp4) |
 | **AI Chatbot**<br><a href="https://github.com/EmonKarmaker/chatbot"><img src="https://img.shields.io/badge/NLP-Chatbot-9C27B0?style=for-the-badge&logo=python" /></a> | **WhatsApp Analytics**<br><a href="assets/video1555536535.mp4"><img src="https://img.shields.io/badge/Demo-Video-FF5252?style=for-the-badge&logo=video.js" /></a> |
 
 
