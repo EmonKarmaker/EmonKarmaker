@@ -110,7 +110,7 @@ Improved image clarity by 65%, accuracy by 28%
 
 | | |
 |:---:|:---:|
-| [<img src="assets/car.png" width="500" height="300" style="border-radius: 8px; border: 2px solid #4CAF50; object-fit: cover;" alt="Car Price Prediction">](https://github.com/EmonKarmaker/car_price_prediction) | [<img src="assets/Movie.png" width="350" height="250 style="border-radius: 8px; border: 2px solid #2196F3; object-fit: cover;" alt="Movie Recommendation">](https://github.com/EmonKarmaker/Movie_recommendation_system_project_ML) |
+| [<img src="assets/car.png" width="500" height="300" style="border-radius: 8px; border: 2px solid #4CAF50; object-fit: cover;" alt="Car Price Prediction">](https://github.com/EmonKarmaker/car_price_prediction) | [<img src="assets/Movie.png" width="350" height="300" style="border-radius: 8px; border: 2px solid #2196F3; object-fit: cover;" alt="Movie Recommendation">](https://github.com/EmonKarmaker/Movie_recommendation_system_project_ML) |
 | **Car Price Prediction**<br><a href="https://github.com/EmonKarmaker/car_price_prediction"><img src="https://img.shields.io/badge/ML-Regression-4CAF50?style=for-the-badge&logo=scikitlearn" /></a> | **Movie Recommendation**<br><a href="https://github.com/EmonKarmaker/Movie_recommendation_system_project_ML"><img src="https://img.shields.io/badge/ML-Recommendation-2196F3?style=for-the-badge&logo=pandas" /></a> |
 
 </div>
