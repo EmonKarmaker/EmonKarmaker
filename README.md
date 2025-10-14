@@ -99,10 +99,11 @@ Improved image clarity by 65%, accuracy by 28%
 
 <div align="center">
 
+
 | | |
 |:---:|:---:|
-| [<img src="assets/WhatsApp%20Image%202025-10-14%20at%2021.21.29_b884980b.jpg" width="160" height="110" style="border-radius: 8px; border: 2px solid #FF6B35;" alt="Posture Detection Project">](https://github.com/EmonKarmaker/Posture_detection_using_PoseNet) | [<img src="https://via.placeholder.com/160x110/37474f/ffffff?text=Mask+Detector" width="160" height="110" style="border-radius: 8px; border: 2px solid #F9A825;" alt="Face Mask Detection Project">](https://github.com/EmonKarmaker/face_mask_detector) |
-| **Posture Detection**<br><a href="https://github.com/EmonKarmaker/Posture_detection_using_PoseNet"><img src="https://img.shields.io/badge/PoseNet-Computer_Vision-FF6B35?style=for-the-badge&logo=tensorflow" /></a> | **Face Mask Detector**<br><a href="https://github.com/EmonKarmaker/face_mask_detector"><img src="https://img.shields.io/badge/OpenCV-Deep_Learning-F9A825?style=for-the-badge&logo=opencv" /></a> |
+| <div style="text-align: center;"> <a href="https://github.com/EmonKarmaker/Posture_detection_using_PoseNet"> <img src="assets/WhatsApp%20Image%202025-10-14%20at%2021.21.29_b884980b.jpg" width="160" height="110" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" alt="Posture Detection"> </a> <br> <strong>Posture Detection</strong> <br> <a href="https://github.com/EmonKarmaker/Posture_detection_using_PoseNet"><img src="https://img.shields.io/badge/🔍_PoseNet-Real_Time-FF6B35?style=for-the-badge" /></a> </div> | <div style="text-align: center;"> <a href="https://github.com/EmonKarmaker/face_mask_detector"> <img src="https://via.placeholder.com/160x110/37474f/ffffff?text=Mask+Detector" width="160" height="110" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" alt="Face Mask Detection"> </a> <br> <strong>Face Mask Detector</strong> <br> <a href="https://github.com/EmonKarmaker/face_mask_detector"><img src="https://img.shields.io/badge/🛡️_OpenCV-Computer_Vision-F9A825?style=for-the-badge" /></a> </div> |
+
 </div>
 
 ### 📈 **Machine Learning**
