@@ -96,42 +96,55 @@ Improved image clarity by 65%, accuracy by 28%
 ## 📊 Project Portfolio
 
 ### 🤖 **AI & Computer Vision**
-<a href="https://github.com/EmonKarmaker/Posture_detection_using_PoseNet">
-  <img src="https://img.shields.io/badge/Posture_Detection-PoseNet-FF6B35?style=for-the-badge" />
-</a>
-<a href="https://github.com/EmonKarmaker/face_mask_detector">
-  <img src="https://img.shields.io/badge/Face_Mask_Detector-OpenCV-F9A825?style=for-the-badge" />
-</a>
 
-<br><br>
+<div align="center">
+
+| Project | Description & Technologies |
+|:---:|:---|
+| [![Posture Detection](assets/WhatsApp%20Image%202025-10-14%20at%2021.21.29_b884980b.jpg)](https://github.com/EmonKarmaker/Posture_detection_using_PoseNet) | **Posture Detection using PoseNet** <br><br> Real-time posture detection and analysis system using PoseNet model for computer vision applications. <br><br> <a href="https://github.com/EmonKarmaker/Posture_detection_using_PoseNet"><img src="https://img.shields.io/badge/Posture_Detection-PoseNet-FF6B35?style=for-the-badge" /></a> |
+| [![Face Mask Detection](https://via.placeholder.com/400x250/37474f/ffffff?text=Face+Mask+Detector)](https://github.com/EmonKarmaker/face_mask_detector) | **Face Mask Detector** <br><br> Computer vision system to detect face masks in real-time using OpenCV and deep learning. <br><br> <a href="https://github.com/EmonKarmaker/face_mask_detector"><img src="https://img.shields.io/badge/Face_Mask_Detector-OpenCV-F9A825?style=for-the-badge" /></a> |
+
+</div>
+
+<br>
 
 ### 📈 **Machine Learning**
-<a href="https://github.com/EmonKarmaker/car_price_prediction">
-  <img src="https://img.shields.io/badge/Car_Price_Prediction-ML-4CAF50?style=for-the-badge" />
-</a>
-<a href="https://github.com/EmonKarmaker/Movie_recommendation_system_project_ML">
-  <img src="https://img.shields.io/badge/Movie_Recommendation-ML-2196F3?style=for-the-badge" />
-</a>
 
-<br><br>
+<div align="center">
+
+| Project | Description & Technologies |
+|:---:|:---|
+| [![Car Price Prediction](https://via.placeholder.com/400x250/1b5e20/ffffff?text=Car+Price+Prediction)](https://github.com/EmonKarmaker/car_price_prediction) | **Car Price Prediction** <br><br> Machine learning model to predict car prices based on various features and market trends. <br><br> <a href="https://github.com/EmonKarmaker/car_price_prediction"><img src="https://img.shields.io/badge/Car_Price_Prediction-ML-4CAF50?style=for-the-badge" /></a> |
+| [![Movie Recommendation](https://via.placeholder.com/400x250/0d47a1/ffffff?text=Movie+Recommendation)](https://github.com/EmonKarmaker/Movie_recommendation_system_project_ML) | **Movie Recommendation System** <br><br> ML-based recommendation system that suggests movies based on user preferences and ratings. <br><br> <a href="https://github.com/EmonKarmaker/Movie_recommendation_system_project_ML"><img src="https://img.shields.io/badge/Movie_Recommendation-ML-2196F3?style=for-the-badge" /></a> |
+
+</div>
+
+<br>
 
 ### 💬 **NLP & Analytics**
-<a href="https://github.com/EmonKarmaker/chatbot">
-  <img src="https://img.shields.io/badge/AI_Chatbot-Python-9C27B0?style=for-the-badge" />
-</a>
-<a href="https://github.com/EmonKarmaker/whatsapp_chat_analysis">
-  <img src="https://img.shields.io/badge/WhatsApp_Analytics-Data_Visualization-FF5252?style=for-the-badge" />
-</a>
 
-<br><br>
+<div align="center">
+
+| Project | Description & Technologies |
+|:---:|:---|
+| [![AI Chatbot](https://via.placeholder.com/400x250/4a148c/ffffff?text=AI+Chatbot)](https://github.com/EmonKarmaker/chatbot) | **AI Chatbot** <br><br> Intelligent chatbot using natural language processing for interactive conversations. <br><br> <a href="https://github.com/EmonKarmaker/chatbot"><img src="https://img.shields.io/badge/AI_Chatbot-Python-9C27B0?style=for-the-badge" /></a> |
+| [![WhatsApp Analytics](https://via.placeholder.com/400x250/b71c1c/ffffff?text=WhatsApp+Analytics)](https://github.com/EmonKarmaker/whatsapp_chat_analysis) | **WhatsApp Chat Analysis** <br><br> Data visualization and analytics tool for WhatsApp chat conversations. <br><br> <a href="https://github.com/EmonKarmaker/whatsapp_chat_analysis"><img src="https://img.shields.io/badge/WhatsApp_Analytics-Data_Visualization-FF5252?style=for-the-badge" /></a> |
+
+</div>
+
+<br>
 
 ### 🏪 **Web Development**
-<a href="https://github.com/EmonKarmaker/Pharmacy-Management-System-1">
-  <img src="https://img.shields.io/badge/Pharmacy_System-Laravel-00BCD4?style=for-the-badge" />
-</a>
+
+<div align="center">
+
+| Project | Description & Technologies |
+|:---:|:---|
+| [![Pharmacy Management](https://via.placeholder.com/400x250/006064/ffffff?text=Pharmacy+Management)](https://github.com/EmonKarmaker/Pharmacy-Management-System-1) | **Pharmacy Management System** <br><br> Comprehensive pharmacy management system built with Laravel framework. <br><br> <a href="https://github.com/EmonKarmaker/Pharmacy-Management-System-1"><img src="https://img.shields.io/badge/Pharmacy_System-Laravel-00BCD4?style=for-the-badge" /></a> |
+
+</div>
 
 ---
-
 ## 📈 GitHub Analytics
 
 <a href="https://github.com/EmonKarmaker">
