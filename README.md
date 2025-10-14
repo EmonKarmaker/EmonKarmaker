@@ -100,7 +100,7 @@ Improved image clarity by 65%, accuracy by 28%
 
 | | |
 |:---:|:---:|
-| [<img src="assets/WhatsApp%20Image%202025-10-14%20at%2021.21.29_b884980b.jpg" width="150" height="250" style="border-radius: 8px; border: 2px solid #FF6B35; object-fit: cover;" alt="Posture Detection Project">](https://github.com/EmonKarmaker/Posture_detection_using_PoseNet) | [<img src="https://via.placeholder.com/300x150/37474f/ffffff?text=Mask+Detector" width="300" height="150" style="border-radius: 8px; border: 2px solid #F9A825;" alt="Face Mask Detection Project">](https://github.com/EmonKarmaker/face_mask_detector) |
+| [<img src="assets/WhatsApp%20Image%202025-10-14%20at%2021.21.29_b884980b.jpg" width="150" height="250" style="border-radius: 8px; border: 2px solid #FF6B35; object-fit: cover;" alt="Posture Detection Project">](https://github.com/EmonKarmaker/Posture_detection_using_PoseNet) | [<img src="https://via.placeholder.com/300x150/37474f/ffffff?text=Mask+Detector" width="200" height="500" style="border-radius: 8px; border: 2px solid #F9A825;" alt="Face Mask Detection Project">](https://github.com/EmonKarmaker/face_mask_detector) |
 | **Posture Detection**<br><a href="https://github.com/EmonKarmaker/Posture_detection_using_PoseNet"><img src="https://img.shields.io/badge/PoseNet-Computer_Vision-FF6B35?style=for-the-badge&logo=tensorflow" /></a> | **Face Mask Detector**<br><a href="https://github.com/EmonKarmaker/face_mask_detector"><img src="https://img.shields.io/badge/OpenCV-Deep_Learning-F9A825?style=for-the-badge&logo=opencv" /></a> |
 
 </div>
