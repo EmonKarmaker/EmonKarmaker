@@ -145,7 +145,7 @@ Improved image clarity by 65%, accuracy by 28%
 
 <br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EmonKarmaker&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EmonKarmaker&theme=radical)](https://git.io/streak-stats) 
 
 <br><br>
 
