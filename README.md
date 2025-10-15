@@ -145,7 +145,7 @@ Improved image clarity by 65%, accuracy by 28%
 
 <br><br>
 
-![Emon's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmonKarmaker&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EmonKarmaker&theme=radical)](https://git.io/streak-stats)
 
 <br><br>
 
