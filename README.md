@@ -235,6 +235,10 @@ Fundamental computer and ICT skills development program.
   <a href="https://www.youtube.com/channel/UC_FFz7HrnOVrd1_mrw7eFtg">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+  <a href="https://discord.com/users/872576914433409184">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
   
 ---
 
