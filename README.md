@@ -211,7 +211,7 @@ Fundamental computer and ICT skills development program.
 
 ## 🔗 Let's Connect
 
-<a href="https://www.linkedin.com/in/emon-karmoker-9308431b">
+<a href="https://www.linkedin.com/in/emon-karmoker-9308431b4/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.kaggle.com/constantine101">
