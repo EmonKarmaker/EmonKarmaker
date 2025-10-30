@@ -211,21 +211,33 @@ Fundamental computer and ICT skills development program.
 
 ## 🔗 Let's Connect
 
- <a href="https://www.linkedin.com/in/emon-karmoker-9308431b4/">
+<p align="center">
+  <!-- LinkedIn (Skill Icons) -->
+  <a href="https://www.linkedin.com/in/emon-karmoker-9308431b4/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
+
+  <!-- Kaggle (fallback to Shields.io) -->
   <a href="https://www.kaggle.com/constantine101">
-    <img src="https://skillicons.dev/icons?i=kaggle" height="40" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="40" />
   </a>
+
+  <!-- GitHub (Skill Icons) -->
   <a href="https://github.com/EmonKarmaker">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
+
+  <!-- Gmail (Skill Icons) -->
   <a href="mailto:emonkarmaker101@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
+
+  <!-- Facebook (fallback to Shields.io) -->
   <a href="https://www.facebook.com/emon.karmaker.1">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40" />
   </a>
+
+  <!-- Instagram (Skill Icons) -->
   <a href="https://www.instagram.com/edward_cons1an7ine/">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
