@@ -232,6 +232,9 @@ Fundamental computer and ICT skills development program.
   <a href="https://www.instagram.com/edward_cons1an7ine/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.youtube.com/@Edward_Constantine101">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 ---
 
 ### 💡 **Open to Opportunities**
