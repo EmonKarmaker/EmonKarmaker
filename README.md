@@ -211,12 +211,12 @@ Fundamental computer and ICT skills development program.
 
 ## 🔗 Let's Connect
 
- <a href="https://www.linkedin.com/in/emon-karmoker-9308431b4/"><img src="https://img.shields.io/badge/LinkedIn?style=social&logo=linkedin" /></a>
-  <a href="https://www.kaggle.com/constantine101"><img src="https://img.shields.io/badge/Kaggle?style=social&logo=kaggle" /></a>
-  <a href="https://github.com/EmonKarmaker"><img src="https://img.shields.io/badge/GitHub?style=social&logo=github" /></a>
-  <a href="mailto:emonkarmaker101@gmail.com"><img src="https://img.shields.io/badge/Gmail?style=social&logo=gmail" /></a>
-  <a href="https://www.facebook.com/emon.karmaker.1"><img src="https://img.shields.io/badge/Facebook?style=social&logo=facebook" /></a>
-  <a href="https://www.instagram.com/edward_cons1an7ine/"><img src="https://img.shields.io/badge/Instagram?style=social&logo=instagram" /></a>
+ <a href="https://www.linkedin.com/in/emon-karmoker-9308431b4/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" /></a>
+  <a href="https://www.kaggle.com/constantine101"><img src="https://skillicons.dev/icons?i=kaggle" height="48" /></a>
+  <a href="https://github.com/EmonKarmaker"><img src="https://skillicons.dev/icons?i=github" height="48" /></a>
+  <a href="mailto:emonkarmaker101@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" /></a>
+  <a href="https://www.facebook.com/emon.karmaker.1"><img src="https://skillicons.dev/icons?i=facebook" height="48" /></a>
+  <a href="https://www.instagram.com/edward_cons1an7ine/"><img src="https://skillicons.dev/icons?i=instagram" height="48" /></a>
 ---
 
 ### 💡 **Open to Opportunities**
