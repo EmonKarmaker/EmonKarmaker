@@ -22,8 +22,7 @@
 
 
 Computer Science graduate with expertise in Machine Learning and Deep Learning, specializing in Python-based AI development. Skilled in TensorFlow, Keras, PyTorch, and Scikit-learn, with experience deploying models on AWS, building ML pipelines, and using Docker. Proficient in SQL and Power BI for data analysis and visualization. Seeking an ML Engineer or Applied AI role to deliver scalable, data-driven solutions in  tech industry.
----
-<br>
+
 
 <img src="https://komarev.com/ghpvc/?username=EmonKarmaker&color=blue&style=flat-square" />
 
