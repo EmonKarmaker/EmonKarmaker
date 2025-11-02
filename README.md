@@ -238,6 +238,9 @@ Fundamental computer and ICT skills development program.
   <a href="https://discord.gg/867FWAch">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+  <a href="https://www.twitch.tv/edward_cons1an7ine">
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
 
 
   
