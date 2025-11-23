@@ -123,11 +123,13 @@ Improved image clarity by 65%, accuracy by 28%
 
 | | |
 |:---:|:---:|
-| [<img src="assets/chatbot.jpg" width="350" height="300" style="border-radius: 8px; border: 2px solid #9C27B0; object-fit: cover;" alt="AI Chatbot">](https://github.com/EmonKarmaker/chatbot) | [<img src="assets/whatsapp.png" width="350" height="150" style="border-radius: 8px; border: 2px solid #FF5252; object-fit: cover;" alt="WhatsApp Analytics">](https://github.com/EmonKarmaker/whatsapp_chat_analysis) | [<img src="assets/Screenshot 2025-11-23 212935.png" width="350" height="300" style="border-radius: 8px; border: 2px solid #FF6B35; object-fit: cover;" alt="Semantic Book Recommender">](https://github.com/EmonKarmaker/Book_reccomender/tree/master) |
-| **Chatbot**<br><a href="https://github.com/EmonKarmaker/chatbot"><img src="https://img.shields.io/badge/NLP-Chatbot-9C27B0?style=for-the-badge&logo=python" /></a> | **WhatsApp Analytics**<br><a href="https://github.com/EmonKarmaker/whatsapp_chat_analysis"><img src="https://img.shields.io/badge/Data-Visualization-FF5252?style=for-the-badge&logo=plotly" /></a> |  **Semantic Book Recommender**<br><a href="https://github.com/EmonKarmaker/Book_reccomender/tree/master"><img src="https://img.shields.io/badge/LLM-Book_Recommendation-FF6B35?style=for-the-badge&logo=python" /></a> |
+| [<img src="assets/chatbot.jpg" width="350" height="300" style="border-radius: 8px; border: 2px solid #9C27B0; object-fit: cover;" alt="AI Chatbot">](https://github.com/EmonKarmaker/chatbot) | [<img src="assets/whatsapp.png" width="350" height="150" style="border-radius: 8px; border: 2px solid #FF5252; object-fit: cover;" alt="WhatsApp Analytics">](https://github.com/EmonKarmaker/whatsapp_chat_analysis) |
+| **Chatbot**<br><a href="https://github.com/EmonKarmaker/chatbot"><img src="https://img.shields.io/badge/NLP-Chatbot-9C27B0?style=for-the-badge&logo=python" /></a> | **WhatsApp Analytics**<br><a href="https://github.com/EmonKarmaker/whatsapp_chat_analysis"><img src="https://img.shields.io/badge/Data-Visualization-FF5252?style=for-the-badge&logo=plotly" /></a> |
+
+| [<img src="assets/Screenshot 2025-11-23 212935.png" width="350" height="300" style="border-radius: 8px; border: 2px solid #FF6B35; object-fit: cover;" alt="Semantic Book Recommender">](https://github.com/EmonKarmaker/Book_reccomender/tree/master) |
+| **Semantic Book Recommender**<br><a href="https://github.com/EmonKarmaker/Book_reccomender/tree/master"><img src="https://img.shields.io/badge/LLM-Book_Recommendation-FF6B35?style=for-the-badge&logo=python" /></a> |
 
 </div>
-
 ### 🏪 **Web Development**
 <div align="center">
 
