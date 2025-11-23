@@ -121,10 +121,17 @@ Improved image clarity by 65%, accuracy by 28%
 ### 💬 **NLP & Analytics**
 <div align="center">
 
-| | | |
-|:---:|:---:|:---:|
-| <a href="https://github.com/EmonKarmaker/chatbot"><img src="assets/chatbot.jpg" width="300" height="250" style="border-radius: 8px; border: 2px solid #9C27B0; object-fit: cover;" alt="AI Chatbot"></a> | <a href="https://github.com/EmonKarmaker/whatsapp_chat_analysis"><img src="assets/whatsapp.png" width="300" height="150" style="border-radius: 8px; border: 2px solid #FF5252; object-fit: cover;" alt="WhatsApp Analytics"></a> | <a href="https://github.com/EmonKarmaker/Book_reccomender/tree/master"><img src="assets/Screenshot%202025-11-23%20212935.png" width="300" height="250" style="border-radius: 8px; border: 2px solid #FF6B35; object-fit: cover;" alt="Semantic Book Recommender"></a> |
-| **Chatbot**<br><a href="https://github.com/EmonKarmaker/chatbot"><img src="https://img.shields.io/badge/NLP-Chatbot-9C27B0?style=for-the-badge&logo=python" alt="Chatbot badge" /></a> | **WhatsApp Analytics**<br><a href="https://github.com/EmonKarmaker/whatsapp_chat_analysis"><img src="https://img.shields.io/badge/Data-Visualization-FF5252?style=for-the-badge&logo=plotly" alt="WhatsApp badge" /></a> | **Semantic Book Recommender**<br><a href="https://github.com/EmonKarmaker/Book_reccomender/tree/master"><img src="https://img.shields.io/badge/LLM-Book_Recommendation-FF6B35?style=for-the-badge&logo=python" alt="Book Recommender badge" /></a> |
+| | |
+|:---:|:---:|
+| <a href="https://github.com/EmonKarmaker/chatbot"><img src="assets/chatbot.jpg" width="350" height="300" style="border-radius: 8px; border: 2px solid #9C27B0; object-fit: cover;" alt="AI Chatbot"></a> | <a href="https://github.com/EmonKarmaker/whatsapp_chat_analysis"><img src="assets/whatsapp.png" width="350" height="150" style="border-radius: 8px; border: 2px solid #FF5252; object-fit: cover;" alt="WhatsApp Analytics"></a> |
+| **Chatbot**<br><a href="https://github.com/EmonKarmaker/chatbot"><img src="https://img.shields.io/badge/NLP-Chatbot-9C27B0?style=for-the-badge&logo=python" /></a> | **WhatsApp Analytics**<br><a href="https://github.com/EmonKarmaker/whatsapp_chat_analysis"><img src="https://img.shields.io/badge/Data-Visualization-FF5252?style=for-the-badge&logo=plotly" /></a> |
+
+<br>
+
+| |
+|:---:|
+| <a href="https://github.com/EmonKarmaker/Book_reccomender/tree/master"><img src="assets/Screenshot%202025-11-23%20212935.png" width="350" height="300" style="border-radius: 8px; border: 2px solid #FF6B35; object-fit: cover;" alt="Semantic Book Recommender"></a> |
+| **Semantic Book Recommender**<br><a href="https://github.com/EmonKarmaker/Book_reccomender/tree/master"><img src="https://img.shields.io/badge/LLM-Book_Recommendation-FF6B35?style=for-the-badge&logo=python" /></a> |
 
 </div>
 ### 🏪 **Web Development**
