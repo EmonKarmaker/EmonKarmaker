@@ -134,7 +134,7 @@ Improved image clarity by 65%, accuracy by 28%
 | **Semantic Book Recommender**<br><a href="https://github.com/EmonKarmaker/Book_reccomender/tree/master"><img src="https://img.shields.io/badge/LLM-Book_Recommendation-FF6B35?style=for-the-badge&logo=python" /></a> |
 
 </div>
- 🏪 Web Development
+### 🏪 **Web Development**
 <div align="center">
 
 | |
