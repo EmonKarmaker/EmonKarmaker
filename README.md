@@ -137,7 +137,7 @@ Improved image clarity by 65%, accuracy by 28%
 <br>
 
 🔗 **Live Medical Chatbot:** https://medical-chatbot-c363.onrender.com  
-📁 **Medical Chatbot Repo:** https://github.com/EmonKarmaker/MedicalChatbot  
+📁 **Medical Chatbot Repo:** https://github.com/EmonKarmaker/Medical-Chatbot
 
 </div>
 
