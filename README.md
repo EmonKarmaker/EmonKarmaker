@@ -136,12 +136,13 @@ Improved image clarity by 65%, accuracy by 28%
 <br>
 
 | | |
-| --- |
+|:---:|
 | <a href="https://medical-chatbot-c363.onrender.com"><img src="assets/webapp-medical-chatbot.png" width="350" height="300" style="border-radius: 8px; border: 2px solid #FF6B35; object-fit: cover;" alt="Medical Chatbot UI"></a> |
 | **Medical Chatbot – AI Health Assistant**<br><a href="https://github.com/EmonKarmaker/MedicalChatbot"><img src="https://img.shields.io/badge/LLM-Medical_Chatbot-FF6B35?style=for-the-badge&logo=python" /></a> |
 
 **🔗 Live:** https://medical-chatbot-c363.onrender.com  
 **📁 Repo:** https://github.com/EmonKarmaker/MedicalChatbot
+
 
 </div>
 🏪 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
