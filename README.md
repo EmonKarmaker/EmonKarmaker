@@ -131,14 +131,15 @@ Improved image clarity by 65%, accuracy by 28%
 
 | | |
 |:---:|:---:|
-| <a href="https://github.com/EmonKarmaker/Book_reccomender/tree/master"><img src="assets/Screenshot%202025-11-23%20212935.png" width="350" height="300" style="border-radius: 8px; border: 2px solid #FF6B35; object-fit: cover;" alt="Semantic Book Recommender"></a> | <a href="https://medical-chatbot-c363.onrender.com"><img src="assets/mc-2.png" width="350" height="300" style="border-radius: 8px; border: 2px solid #FF6B35; object-fit: cover;" alt="Medical Chatbot UI"></a> |
-| **Semantic Book Recommender**<br><a href="https://github.com/EmonKarmaker/Book_reccomender/tree/master"><img src="https://img.shields.io/badge/LLM-Book_Recommendation-FF6B35?style=for-the-badge&logo=python" /></a> | **Medical Chatbot – AI Health Assistant**<br><a href="https://github.com/EmonKarmaker/MedicalChatbot"><img src="https://img.shields.io/badge/LLM-Medical_Chatbot-FF6B35?style=for-the-badge&logo=python" /></a> |
-
+| <a href="https://huggingface.co/spaces/EdwardConstantine/book-recommender"><img src="assets/Screenshot%202025-11-23%20212935.png" width="350" height="300" style="border-radius: 8px; border: 2px solid #FF6B35; object-fit: cover;" alt="Semantic Book Recommender"></a> | <a href="https://medical-chatbot-2-0-xz3n.onrender.com/"><img src="assets/mc-2.png" width="350" height="300" style="border-radius: 8px; border: 2px solid #FF6B35; object-fit: cover;" alt="Medical Chatbot UI"></a> |
+| **Semantic Book Recommender**<br><a href="https://github.com/EmonKarmaker/book_reccomender-2.0"><img src="https://img.shields.io/badge/LLM-Book_Recommendation-FF6B35?style=for-the-badge&logo=python" /></a> | **Medical Chatbot – AI Health Assistant**<br><a href="https://github.com/EmonKarmaker/medical-chatbot-2.0"><img src="https://img.shields.io/badge/LLM-Medical_Chatbot-FF6B35?style=for-the-badge&logo=python" /></a> |
 <br>
 
-🔗 **Live Medical Chatbot:** [https://medical-chatbot-c363.onrender.com ](https://medical-chatbot-2-0-xz3n.onrender.com/) 
-📁 **Medical Chatbot Repo:** [https://github.com/EmonKarmaker/Medical-Chatbot](https://github.com/EmonKarmaker/medical-chatbot-2.0)
+🔗 **Live Book Recommender:** [https://huggingface.co/spaces/EdwardConstantine/book-recommender](https://huggingface.co/spaces/EdwardConstantine/book-recommender)  
+📁 **Book Recommender Repo:** [https://github.com/EmonKarmaker/book_reccomender-2.0](https://github.com/EmonKarmaker/book_reccomender-2.0)
 
+🔗 **Live Medical Chatbot:** [https://medical-chatbot-2-0-xz3n.onrender.com/](https://medical-chatbot-2-0-xz3n.onrender.com/)  
+📁 **Medical Chatbot Repo:** [https://github.com/EmonKarmaker/medical-chatbot-2.0](https://github.com/EmonKarmaker/medical-chatbot-2.0)
 </div>
 
 
