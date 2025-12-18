@@ -127,7 +127,7 @@ Improved image clarity by 65%, accuracy by 28%
 | **Chatbot**<br><a href="https://github.com/EmonKarmaker/chatbot"><img src="https://img.shields.io/badge/NLP-Chatbot-9C27B0?style=for-the-badge&logo=python" /></a> | **WhatsApp Analytics**<br><a href="https://github.com/EmonKarmaker/whatsapp_chat_analysis"><img src="https://img.shields.io/badge/Data-Visualization-FF5252?style=for-the-badge&logo=plotly" /></a> |
 
 <br>
-<div align="center">
+
 ### 🚀 **LLM Applications & Agentic AI Systems**
 
 
