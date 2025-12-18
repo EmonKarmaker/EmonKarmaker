@@ -128,9 +128,9 @@ Improved image clarity by 65%, accuracy by 28%
 
 <br>
 <div align="center">
-## 🚀 LLM Applications & Agentic AI Systems
+### 🚀 **LLM Applications & Agentic AI Systems**
 
-<br>
+
 
 <div align="center">
 
