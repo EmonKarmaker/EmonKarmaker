@@ -128,23 +128,40 @@ Improved image clarity by 65%, accuracy by 28%
 
 <br>
 <div align="center">
+## 🚀 LLM Applications & Agentic AI Systems
+
+<br>
+
+<div align="center">
 
 | | |
 |:---:|:---:|
 | <a href="https://huggingface.co/spaces/EdwardConstantine/book-recommender"><img src="assets/Screenshot%202025-11-23%20212935.png" width="350" height="300" style="border-radius: 8px; border: 2px solid #FF6B35; object-fit: cover;" alt="Semantic Book Recommender"></a> | <a href="https://medical-chatbot-2-0-xz3n.onrender.com/"><img src="assets/mc-2.png" width="350" height="300" style="border-radius: 8px; border: 2px solid #FF6B35; object-fit: cover;" alt="Medical Chatbot UI"></a> |
 | **Semantic Book Recommender**<br><a href="https://github.com/EmonKarmaker/book_reccomender-2.0"><img src="https://img.shields.io/badge/LLM-Book_Recommendation-FF6B35?style=for-the-badge&logo=python" /></a> | **Medical Chatbot – AI Health Assistant**<br><a href="https://github.com/EmonKarmaker/medical-chatbot-2.0"><img src="https://img.shields.io/badge/LLM-Medical_Chatbot-FF6B35?style=for-the-badge&logo=python" /></a> |
+
+</table>
+
 <br>
 
-🔗 **Live Book Recommender:** [https://huggingface.co/spaces/EdwardConstantine/book-recommender](https://huggingface.co/spaces/EdwardConstantine/book-recommender)  
-📁 **Book Recommender Repo:** [https://github.com/EmonKarmaker/book_reccomender-2.0](https://github.com/EmonKarmaker/book_reccomender-2.0)
+| |
+|:---:|
+| <a href="https://ai-agent-1-53gg.onrender.com/"><img src="assets/fastapi.png" width="350" height="300" style="border-radius: 8px; border: 2px solid #00C853; object-fit: cover;" alt="AI Agent System"></a> |
+| **Autonomous AI Agent – Web Research & Task Execution**<br><a href="https://github.com/EmonKarmaker/AI-agent"><img src="https://img.shields.io/badge/Agentic_AI-FastAPI_LangGraph-00C853?style=for-the-badge&logo=fastapi" /></a> |
 
-🔗 **Live Medical Chatbot:** [https://medical-chatbot-2-0-xz3n.onrender.com/](https://medical-chatbot-2-0-xz3n.onrender.com/)  
-📁 **Medical Chatbot Repo:** [https://github.com/EmonKarmaker/medical-chatbot-2.0](https://github.com/EmonKarmaker/medical-chatbot-2.0)
+<br>
+
+🔗 **Live Book Recommender:** https://huggingface.co/spaces/EdwardConstantine/book-recommender  
+📁 **Book Recommender Repo:** https://github.com/EmonKarmaker/book_reccomender-2.0  
+
+🔗 **Live Medical Chatbot:** https://medical-chatbot-2-0-xz3n.onrender.com/  
+📁 **Medical Chatbot Repo:** https://github.com/EmonKarmaker/medical-chatbot-2.0  
+
+🔗 **Live AI Agent:** https://ai-agent-1-53gg.onrender.com/  
+📁 **AI Agent Repo:** https://github.com/EmonKarmaker/AI-agent  
+
 </div>
 
 
-
-</div>
 🏪 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
 <div align="center">
 
