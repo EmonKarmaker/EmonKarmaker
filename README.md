@@ -94,8 +94,8 @@ Streamlined recruitment for 112+ students
 **Tech**: Python, OpenCV, CNN, Fuzzy Logic<br>
 Trained a CNN in TensorFlow/Keras achieving 99% B-scan and 92% volume accuracy on a clinical OCT dataset, running 32% faster than baselines.
 
-<br>
-### 🏥 *A Deep Learning Based Approach to Identify Colon Cancer  from Endoscopic Images**
+<br><br>
+### 🏥 **A Deep Learning Based Approach to Identify Colon Cancer  from Endoscopic Images**
 *Benchmarked GoogLeNet, ResNet, and YOLOv8 on the Kvasir-SEG dataset using uniform preprocessing*<br>
 **Accepted at 4th IEEE BECITHCON 2025**<br>
 **Tech**: GoogLeNet, ResNet, and YOLOv8<br>
