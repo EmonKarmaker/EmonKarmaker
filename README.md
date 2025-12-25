@@ -21,7 +21,10 @@
 
 
 
-Computer Science graduate with expertise in Machine Learning and Deep Learning, specializing in Python-based AI development. Skilled in TensorFlow, Keras, PyTorch, and Scikit-learn, with experience deploying models on AWS, building ML pipelines, and using Docker. Proficient in SQL and Power BI for data analysis and visualization. Seeking an ML Engineer or Applied AI role to deliver scalable, data-driven solutions in  tech industry.
+Computer Science graduate with strong expertise in Machine Learning, Deep Learning, and Agentic AI systems, specializing in Python-based AI development. 
+Experienced in building LLM-powered applications and AI agents using FastAPI, LangGraph, LangChain, and workflow automation tools like n8n. Proficient in 
+TensorFlow, Keras, PyTorch, and Scikit-learn, with hands-on experience deploying scalable AI systems using Docker and cloud platforms. Skilled in SQL and 
+Power BI for data analysis and visualization. Actively seeking ML Engineer, Applied AI, or LLM Engineer roles to build intelligent, production-ready AI solutions.
 
 
 <img src="https://komarev.com/ghpvc/?username=EmonKarmaker&color=blue&style=flat-square" />
@@ -85,14 +88,19 @@ Streamlined recruitment for 112+ students
 
 <br><br>
 
-### 🏥 **Deep Learning-Enhanced OCT Image Analysis**
+### 🏥 **Deep Learning-Enhanced OCT Image Analysis Pipeline: Integrating Denoising, Super-Resolution, and Fuzzy Logic for Improved Clinical Diagnostics**
 *Medical imaging pipeline for disease classification*<br>
 **Accepted at ICDSAIA 2025**<br>
 **Tech**: Python, OpenCV, CNN, Fuzzy Logic<br>
-Improved image clarity by 65%, accuracy by 28%
+Trained a CNN in TensorFlow/Keras achieving 99% B-scan and 92% volume accuracy on a clinical OCT dataset, running 32% faster than baselines.
 
 <br>
-
+### 🏥 *A Deep Learning Based Approach to Identify Colon Cancer  from Endoscopic Images**
+*Benchmarked GoogLeNet, ResNet, and YOLOv8 on the Kvasir-SEG dataset using uniform preprocessing*<br>
+**Accepted at 4th IEEE BECITHCON 2025**<br>
+**Tech**: GoogLeNet, ResNet, and YOLOv8<br>
+Evaluated accuracy, precision, recall, F1, finding YOLOv8 highest at 97.5%, outperforming ResNet (93.7%) and GoogLeNet (90.6%) for colorectal 
+polyp detection
 
 ---
 
