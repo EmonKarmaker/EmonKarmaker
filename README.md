@@ -151,10 +151,12 @@ polyp detection
 
 <br>
 
-| |
-|:---:|
-| <a href="https://ai-agent-1-53gg.onrender.com/"><img src="assets/fastapi.png" width="350" height="300" style="border-radius: 8px; border: 2px solid #00C853; object-fit: cover;" alt="AI Agent System"></a> |
-| **Autonomous AI Agent – Web Research & Task Execution**<br><a href="https://github.com/EmonKarmaker/AI-agent"><img src="https://img.shields.io/badge/Agentic_AI-FastAPI_LangGraph-00C853?style=for-the-badge&logo=fastapi" /></a> |
+| | |
+|:---:|:---:|
+| <a href="https://ai-agent-1-53gg.onrender.com/"><img src="assets/fastapi.png" width="350" height="300" style="border-radius: 8px; border: 2px solid #00C853; object-fit: cover;" alt="AI Agent System"></a> | <a href="https://github.com/EmonKarmaker/ai-support-system"><img src="assets/ai-support_system.png" width="350" height="300" style="border-radius: 8px; border: 2px solid #00C853; object-fit: cover;" alt="AI Customer Support System"></a> |
+| **Autonomous AI Agent – Web Research & Task Execution**<br><a href="https://github.com/EmonKarmaker/AI-agent"><img src="https://img.shields.io/badge/Agentic_AI-FastAPI_LangGraph-00C853?style=for-the-badge&logo=fastapi" /></a> | **AI Customer Support System** <br><a href="https://github.com/EmonKarmaker/ai-support-system"><img src="https://img.shields.io/badge/RAG_AI-FastAPI%20%7C%20Groq%20%7C%20Pinecone%20%7C%20HF-00C853?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+
 
 <br>
 
