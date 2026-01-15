@@ -158,8 +158,10 @@ polyp detection
 | <a href="https://ai-agent-1-53gg.onrender.com/"><img src="assets/fastapi.png" width="350" height="300" style="border-radius: 8px; border: 2px solid #00C853; object-fit: cover;" alt="AI Agent System"></a> | <a href="https://github.com/EmonKarmaker/ai-support-system"><img src="assets/ai-support_system.png" width="350" height="300" style="border-radius: 8px; border: 2px solid #00C853; object-fit: cover;" alt="AI Customer Support System"></a> |
 | **Autonomous AI Agent – Web Research & Task Execution**<br><a href="https://github.com/EmonKarmaker/AI-agent"><img src="https://img.shields.io/badge/Agentic_AI-FastAPI_LangGraph-00C853?style=for-the-badge&logo=fastapi" /></a> | **AI Customer Support System** <br><a href="https://github.com/EmonKarmaker/ai-support-system"><img src="https://img.shields.io/badge/RAG_AI-FastAPI%20%7C%20Groq%20%7C%20Pinecone%20%7C%20HF-00C853?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-
-
+| |
+|:---:|
+| <a href="https://ai-study-engine.onrender.com/"><img src="assets/study.png" width="350" height="300" style="border-radius: 8px; border: 2px solid #6B5CA5; object-fit: cover;" alt="AI Study Engine"></a> |
+| **AI Study Engine – Smart Learning Platform**<br><a href="https://github.com/EmonKarmaker/ai-study-engine"><img src="https://img.shields.io/badge/EdTech_AI-Streamlit_Groq_LLaMA-6B5CA5?style=for-the-badge&logo=streamlit" /></a>
 <br>
 
 🔗 **Live Book Recommender:** https://huggingface.co/spaces/EdwardConstantine/book-recommender  
@@ -170,6 +172,9 @@ polyp detection
 
 🔗 **Live AI Agent:** https://ai-agent-1-53gg.onrender.com/  
 📁 **AI Agent Repo:** https://github.com/EmonKarmaker/AI-agent  
+
+🔗 **Live Demo:** https://ai-study-engine.onrender.com/  
+📁 **GitHub Repo:** https://github.com/EmonKarmaker/ai-study-engine
 
 </div>
 
