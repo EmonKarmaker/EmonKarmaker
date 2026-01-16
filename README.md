@@ -292,7 +292,12 @@ Fundamental computer and ICT skills development program.
   <a href="https://www.twitch.tv/edward_cons1an7ine">
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
-
+  <a href="https://scholar.google.com/citations?user=l8znEFoAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Emon-Karmoker" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+  </a>
 
   
 ---
