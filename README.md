@@ -173,8 +173,8 @@ polyp detection
 🔗 **Live AI Agent:** https://ai-agent-1-53gg.onrender.com/  
 📁 **AI Agent Repo:** https://github.com/EmonKarmaker/AI-agent  
 
-🔗 **Live Demo:** https://ai-study-engine.onrender.com/  
-📁 **GitHub Repo:** https://github.com/EmonKarmaker/ai-study-engine
+🔗 **AI Study Engine Live Demo:** https://ai-study-engine.onrender.com/  
+📁 **AI Study Engine GitHub Repo:** https://github.com/EmonKarmaker/ai-study-engine
 
 </div>
 
