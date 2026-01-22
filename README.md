@@ -24,7 +24,7 @@
 Computer Science graduate with strong expertise in Machine Learning, Deep Learning, and Agentic AI systems, specializing in Python-based AI development. 
 Experienced in building LLM-powered applications and AI agents using FastAPI, LangGraph, LangChain, and workflow automation tools like n8n. Proficient in 
 TensorFlow, Keras, PyTorch, and Scikit-learn, with hands-on experience deploying scalable AI systems using Docker and cloud platforms. Skilled in SQL and 
-Power BI for data analysis and visualization. Currently working as an AI Engineer at Betopia.
+Power BI for data analysis and visualization. Currently working as an AI Backend Developer at Betopia.
 
 
 <img src="https://komarev.com/ghpvc/?username=EmonKarmaker&color=blue&style=flat-square" />
