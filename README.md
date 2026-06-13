@@ -91,8 +91,9 @@ Built an OCT pipeline with noise reduction, LAB-based fuzzy contrast enhancement
 <br>
 
 ### 🏥 **A Deep Learning Based Approach to Identify Colon Cancer from Endoscopic Images**
-**Accepted at 4th IEEE BECITHCON 2025** &nbsp;|&nbsp; **Tech**: GoogLeNet, ResNet, YOLOv8<br>
-Benchmarked GoogLeNet, ResNet, and YOLOv8 on the Kvasir-SEG dataset using uniform preprocessing. Evaluated accuracy, precision, recall, and F1 — finding **YOLOv8 highest at 97.5%**, outperforming ResNet (93.7%) and GoogLeNet (90.6%) for colorectal polyp detection.
+**Published at 4th IEEE BECITHCON 2025** &nbsp;|&nbsp; **Tech**: GoogLeNet, ResNet, YOLOv8<br>
+Benchmarked GoogLeNet, ResNet, and YOLOv8 on the Kvasir-SEG dataset using uniform preprocessing. Evaluated accuracy, precision, recall, and F1 — finding **YOLOv8 highest at 97.5%**, outperforming ResNet (93.7%) and GoogLeNet (90.6%) for colorectal polyp detection.<br>
+🔗 [IEEE Xplore – Paper](https://ieeexplore.ieee.org/abstract/document/11504178)
 
 ---
 
