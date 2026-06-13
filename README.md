@@ -190,12 +190,23 @@ Streamlined recruitment for 112+ students
 
 <br>
 
-🔗 **Live Demos** &nbsp;|&nbsp;
-[Book Recommender](https://huggingface.co/spaces/EdwardConstantine/book-recommender) ·
-[Medical Chatbot](https://medical-chatbot-2-0-xz3n.onrender.com/) ·
-[AI Agent](https://ai-agent-1-53gg.onrender.com/) ·
-[AI Study Engine](https://ai-study-engine.onrender.com/) ·
-[HomieGhor](https://homieghor.vercel.app/)
+### 🌐 Live Demos — Try Them Out
+
+<a href="https://huggingface.co/spaces/EdwardConstantine/book-recommender">
+  <img src="https://img.shields.io/badge/📚_Book_Recommender-FF6B35?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://medical-chatbot-2-0-xz3n.onrender.com/">
+  <img src="https://img.shields.io/badge/🏥_Medical_Chatbot-E63946?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://ai-agent-1-53gg.onrender.com/">
+  <img src="https://img.shields.io/badge/🤖_AI_Agent-00C853?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://ai-study-engine.onrender.com/">
+  <img src="https://img.shields.io/badge/🎓_AI_Study_Engine-6B5CA5?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://homieghor.vercel.app/">
+  <img src="https://img.shields.io/badge/🏠_HomieGhor-FF6F61?style=for-the-badge&logoColor=white" />
+</a>
 
 </div>
 
